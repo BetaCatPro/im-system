@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ccba9b0-579a-48a0-a6b4-8945efc5584c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/javaim/im/common/BaseErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/javaim/im/common/ResponseVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/javaim/im/common/enums/DelFlagEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/javaim/im/common/enums/UserErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/javaim/im/common/exception/ApplicationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/javaim/im/common/exception/ApplicationExceptionEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/main/java/org/javaim/im/common/modal/RequestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/test/java/org/javaim/im/common/CommonApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/mylog.log.2024-11-12.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/ServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/exception/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/user/controller/ImUserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/user/controller/ImUserDataController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/user/dao/ImUserDataEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/user/dao/mapper/ImUserDataMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/user/modules/req/DeleteUserReq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/user/modules/req/GetUserInfoReq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/user/modules/req/ImportUserReq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/user/modules/req/ModifyUserInfoReq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/user/modules/req/UserId.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/user/modules/resp/GetUserInfoResp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/user/modules/resp/ImportUserResp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/user/service/ImUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/java/org/javaim/im/service/user/service/impl/ImUserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/main/resources/logback-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/src/main/resources/logback-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/src/test/java/org/javaim/im/service/ServiceApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2onY83yLgmECMBxXQn8LQ2JW1jx" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.miao.im.service.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="message-store" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.miao.message.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ccba9b0-579a-48a0-a6b4-8945efc5584c" name="Changes" comment="" />
+      <created>1731506645858</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731506645858</updated>
+      <workItem from="1731506648561" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
